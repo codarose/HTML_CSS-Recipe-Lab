@@ -15,6 +15,7 @@ header nav {
 	height: 35px;
 	text-align: center;
 }
+
 header nav li {
 	display: inline-block;
 	width: 30%;
@@ -132,4 +133,91 @@ footer {
 }
 
 /* ----END----- OF ESTHERS RECIPE PAGE
+      ========================================================================== */
+
+
+/* RAJU'S RECIPE PAGE
+      ========================================================================== */
+body,
+html {
+	font-size: 20px;
+	letter-spacing: 0.05em;
+}
+
+/* HOME PAGE
+      ========================================================================== */
+header nav {
+	height: 35px;
+	text-align: center;
+}
+
+header nav li {
+	display: inline-block;
+	width: 30%;
+	margin: 10px 0px;
+}
+
+header nav li a {
+	font-weight: bold;
+	color: white;
+}
+
+header {
+	color: white;
+	height: 450px;
+	background-image: url(../images/cutting-board.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+header h1 {
+	margin: 45px 0px 45px 45px;
+	font-size: 50px;
+	color: white;
+	font-family: sans-serif;
+	max-width: 600px;
+}
+
+header p {
+	margin: 45px 0px 45px 45px;
+	max-width: 600px;
+
+	line-height: 1.2;
+	font-size: 20px;
+}
+
+main {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.blog-home #about h2,
+.blog-home #recipes h2 {
+	margin: 50px 0px;
+	font-size: 25px;
+	font-weight: 600;
+	padding: 5px;
+}
+
+.blog-home #about p,
+.blog-home #recipes li {
+	max-width: 750px;
+	line-height: 1.2;
+	padding: 8px;
+}
+
+footer {
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 40px;
+	line-height: 1.5;
+	margin-top: 100px;
+}
+
+
+
+
+/* ----END----- OF RAJU'S RECIPE PAGE
       ========================================================================== */
