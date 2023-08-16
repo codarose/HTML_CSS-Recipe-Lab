@@ -99,7 +99,7 @@ footer {
 	width: 400px;
 }
 
-.esthers-recipe h2 {
+.esther- h2 {
 	font-size: 25px;
 	font-weight: 700;
 	margin: 50px 0px;
@@ -133,3 +133,58 @@ footer {
 
 /* ----END----- OF ESTHERS RECIPE PAGE
       ========================================================================== */
+	
+	/* JAMES RECIPE PAGE
+      ========================================================================== */
+	
+	
+	  .james-recipe header {
+		color: blue;
+		background-image: url(../images/cakehttps://media.istockphoto.com/id/683023940/photo/berry-layer-cake-with-whipped-cream.jpg?s=612x612&w=is&k=20&c=AaR5KyNZKGFiP3yqcF6Ir2IpZKK3OSs4aH_XL1itqEM=s-james.jpg);
+		background-position: center -10px;
+	}
+	
+	.james-recipe nav {
+		background: blue;
+	}
+	
+	.james-recipe header h1 {
+		color: blue;
+		margin-top: 250px;
+		background: blue
+		width: 400px;
+	}
+	
+	.james- h2 {
+		font-size: 25px;
+		font-weight: 700;
+		margin: 50px 0px;
+	}
+	
+	.james-recipe main p {
+		max-width: 750px;
+		line-height: 1.2;
+		margin: 5px;
+	}
+	
+	.james-recipe h3 {
+		font-size: 20px;
+		font-weight: 700;
+		margin: 20px 0px;
+	}
+	
+	.james-recipe li {
+		line-height: 1.2;
+		list-style-position: inside;
+		list-style-type: disc;
+	}
+	
+	.james-recipe ol li {
+		list-style-type: decimal;
+	}
+	
+	.james-recipe img {
+		max-width: 100%;
+	}
+	
+	/* ---
