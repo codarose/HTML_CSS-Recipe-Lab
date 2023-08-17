@@ -133,3 +133,57 @@ footer {
 
 /* ----END----- OF ESTHERS RECIPE PAGE
       ========================================================================== */
+
+	  /* HONGS RECIPE PAGE
+      ========================================================================== */
+.esthers-recipe header {
+	color: black;
+	background-image: url(../images/muffin-esther.jpg);
+	background-position: center -10px;
+}
+
+.esthers-recipe nav {
+	background: black;
+}
+
+.esthers-recipe header h1 {
+	color: black;
+	margin-top: 250px;
+	background: white;
+	width: 400px;
+}
+
+.esthers-recipe h2 {
+	font-size: 25px;
+	font-weight: 700;
+	margin: 50px 0px;
+}
+
+.esthers-recipe main p {
+	max-width: 750px;
+	line-height: 1.2;
+	margin: 5px;
+}
+
+.esthers-recipe h3 {
+	font-size: 20px;
+	font-weight: 700;
+	margin: 20px 0px;
+}
+
+.esthers-recipe li {
+	line-height: 1.2;
+	list-style-position: inside;
+	list-style-type: disc;
+}
+
+.esthers-recipe ol li {
+	list-style-type: decimal;
+}
+
+.esthers-recipe img {
+	max-width: 100%;
+}
+
+/* ----END----- OF ESTHERS RECIPE PAGE
+      ========================================================================== */
