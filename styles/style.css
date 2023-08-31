@@ -654,3 +654,56 @@ aside {
 
 
 
+/* Fue's recipe PAGE
+      ========================================================================== */
+.fue-recipe header {
+	color: black;
+	background-image: url(../images/muffin-esther.jpg);
+	background-position: center -10px;
+}
+
+.fue-recipe nav {
+	background: black;
+}
+
+.fue-recipe header h1 {
+	color: black;
+	margin-top: 250px;
+	background: white;
+	width: 400px;
+}
+
+.fue-recipe h2 {
+	font-size: 25px;
+	font-weight: 700;
+	margin: 50px 0px;
+}
+
+.fue-recipe main p {
+	max-width: 750px;
+	line-height: 1.2;
+	margin: 5px;
+}
+
+.fue-recipe h3 {
+	font-size: 20px;
+	font-weight: 700;
+	margin: 20px 0px;
+}
+
+.fue-recipe li {
+	line-height: 1.2;
+	list-style-position: inside;
+	list-style-type: disc;
+}
+
+.fue-recipe ol li {
+	list-style-type: decimal;
+}
+
+.fue-recipe img {
+	max-width: 100%;
+}
+
+/* ----END----- OF Fue's page
+      ========================================================================== */
