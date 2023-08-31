@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Diana's Boutique</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Diana's Boutique</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Welcome to Diana's Boutique!</h2>
+      <p>Where you can find all of your princess' needs.</p>
+    </section>
+          <a href="#" class="cta button sticky">Shop Now</a>
+
+
+    <section>
+      <h2>Our Products</h2>
+      <div class="products">
+        <div class="product">
+          <img src="https://i.etsystatic.com/24582190/r/il/49c0e7/3054405556/il_794xN.3054405556_qmbg.jpg" 
+          <h3>Princess of the Petals Robe</h3>
+          <p>$34.99</p>
+          <a href="#" class="button">Add to Cart</a>
+        </div>
+        <div class="product">
+          <img src="https://i.etsystatic.com/26720758/r/il/7b15cd/3947018623/il_794xN.3947018623_et21.jpg" 
+          <h3>Princess Tiara (rose gold with rhinestone)</h3>
+          <p>$29.99</p>
+          <a href="#" class="button">Add to Cart</a>
+        </div>
+        <div class="product">
+          <img src="https://i.etsystatic.com/42027019/r/il/9e15b9/5133171262/il_794xN.5133171262_4rbp.jpg" 
+          <h3>Custom shoe (please provide name when checking out)</h3>
+          <p>$29.99</p>
+          <a href="#" class="button">Add to Cart</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Diana's Boutique. All rights reserved.</p>
+  </footer>
+</body>
+
+</html>
