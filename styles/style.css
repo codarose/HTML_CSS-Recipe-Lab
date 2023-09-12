@@ -39,7 +39,7 @@ header h1 {
 	margin: 45px 0px 45px 45px;
 	font-size: 50px;
 	color: white;
-	font-family: sans-serif;
+	font-family: Verdana;
 	max-width: 600px;
 }
 
@@ -136,54 +136,56 @@ footer {
 
 	  /* HONGS RECIPE PAGE
       ========================================================================== */
-.esthers-recipe header {
+.hongs-recipe header {
 	color: black;
-	background-image: url(../images/muffin-esther.jpg);
+	background-image: url(https://images.unsplash.com/photo-1595238734477-ae7f8a79ce02?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3ByaW5ncm9sbHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60);
 	background-position: center -10px;
 }
 
-.esthers-recipe nav {
+.hongs-recipe nav {
 	background: black;
 }
 
-.esthers-recipe header h1 {
+.esther-recipe header h1 {
 	color: black;
 	margin-top: 250px;
 	background: white;
 	width: 400px;
 }
 
-.esthers-recipe h2 {
+.hongs-recipe h2 {
 	font-size: 25px;
 	font-weight: 700;
 	margin: 50px 0px;
 }
 
-.esthers-recipe main p {
+.hogns-recipe main p {
 	max-width: 750px;
 	line-height: 1.2;
 	margin: 5px;
 }
 
-.esthers-recipe h3 {
+.hongs-recipe h3 {
 	font-size: 20px;
 	font-weight: 700;
 	margin: 20px 0px;
 }
 
-.esthers-recipe li {
+.hogns-recipe li {
 	line-height: 1.2;
 	list-style-position: inside;
 	list-style-type: disc;
 }
 
-.esthers-recipe ol li {
+.hongs-recipe ol li {
 	list-style-type: decimal;
+	margin: 25px;
 }
 
-.esthers-recipe img {
+.hongs-recipe img {
 	max-width: 100%;
+	position: center;
 }
 
-/* ----END----- OF ESTHERS RECIPE PAGE
+/* ----END----- OF HONGS RECIPE PAGE
       ========================================================================== */
