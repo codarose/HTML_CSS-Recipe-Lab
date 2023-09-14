@@ -146,10 +146,9 @@ footer {
 	background: black;
 }
 
-.esther-recipe header h1 {
-	color: black;
+.hongs-recipe header h1 {
+	color: white;
 	margin-top: 250px;
-	background: white;
 	width: 400px;
 }
 
@@ -181,11 +180,15 @@ footer {
 	list-style-type: decimal;
 	margin: 25px;
 }
-
-.hongs-recipe img {
-	max-width: 100%;
-	position: center;
+.hongs-recipe .image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
+
+
+
+
 
 /* ----END----- OF HONGS RECIPE PAGE
       ========================================================================== */
